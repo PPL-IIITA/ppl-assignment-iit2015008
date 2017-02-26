@@ -26,8 +26,7 @@
    
 ### Documentation :
    - Download all the html files access offline.
-   - ```cd AssignmentQues1/dist/javadoc/index.html```                                                                                        - ```cd AssignmentQues2/dist/javadoc/index.html```
-   
-   
+   - ```cd AssignmentQues1/dist/javadoc/index.html```
+   - ```cd AssignmentQues2/dist/javadoc/index.html``` 
    
    
