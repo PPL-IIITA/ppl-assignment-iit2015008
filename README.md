@@ -10,7 +10,9 @@
    
 ### Testing :
    - **Download or clone using url** : "https://github.com/PPL-IIITA/ppl-assignment-iit2015008.git"
+     ```
    - extract ppl-assignment-iit2015008-master.zip
+     ```  
    - cd ppl-assignment-iit2015008-master.zip/
    - cd AssignmentQues1/
    - **On Command Promt** :  _java -jar "AssignmentQues1.jar_ 
