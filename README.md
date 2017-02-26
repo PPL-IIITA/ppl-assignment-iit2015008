@@ -13,9 +13,9 @@ Testing :
    - extract : ppl-assignment-iit2015008-master.zip
    - cd ppl-assignment-iit2015008-master.zip/
    - cd AssignmentQues1/
-   - On Command Promt : /* java -jar "AssignmentQues1.jar" */
+   - On Command Promt :  java -jar "AssignmentQues1.jar" 
    - cd AssignmentQues2/
-   - On Command Promt : /* java -jar "AssignmentQues2.jar" */
+   - On Command Promt :  java -jar "AssignmentQues2.jar" 
    
 Logs :
    - cd AssignmentQues1/
