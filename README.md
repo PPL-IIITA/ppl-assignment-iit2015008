@@ -12,13 +12,13 @@
    - **Download or clone using url** : "https://github.com/PPL-IIITA/ppl-assignment-iit2015008.git"                                       
    - extract ppl-assignment-iit2015008-master.zip  
    ```
-   cd ppl-assignment-iit2015008-master.zip/                                                                                             
-   cd AssignmentQues1/                                                                                                                   
+   cd ppl-assignment-iit2015008-master.zip/
+   cd AssignmentQues1/
    ```
    - **On Command Promt** : 
    ```
-   java -jar "AssignmentQues1.jar                                                                                                       
-   cd AssignmentQues2/                                                                                                                  
+   java -jar "AssignmentQues1.jar
+   cd AssignmentQues2/
    ```
    - **On Command Promt** : ``` java -jar "AssignmentQues2.jar ```
    
@@ -36,8 +36,10 @@
 ### Documentation :
    - Download all the html files access offline.
    ```
-   cd AssignmentQues1/dist/javadoc/index.html   
-   cd AssignmentQues2/dist/javadoc/index.html
+   cd AssignmentQues1/dist/javadoc/index.html                              
+   ```
+   ```
+   cd AssignmentQues2/dist/javadoc/index.html                           
    ```
    
    
