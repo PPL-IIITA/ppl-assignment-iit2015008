@@ -9,7 +9,7 @@ BUILD TOOLS:
    - jdk : jdk1.8.0_111
    
 Testing :
-   - Download or clone 
+   - Download or clone using url "https://github.com/PPL-IIITA/ppl-assignment-iit2015008.git"
    - extract : ppl-assignment-iit2015008-master.zip
    - cd ppl-assignment-iit2015008-master.zip/
    - cd AssignmentQues1/
