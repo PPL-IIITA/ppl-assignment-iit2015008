@@ -24,18 +24,19 @@
    
 ### Logs :
    ```
-   cd AssignmentQues1/                                                                                                                  
+   cd AssignmentQues1/                                                                                                             
    ```
    - _logs_couple.txt_  will be cread after executing jar file
    ```
-   cd AssignmentQues2/                                                                                                              
+   cd AssignmentQues2/                                                                                                        
    ```
    - _log1_couple.txt , log2_exchangeGifts.txt , log3_compatibleCouple.txt , log4_happiestCouple.txt_ will be created after executing jar       file
    
 ### Documentation :
    - Download all the html files access offline.
    ```
-   cd AssignementQues1/dist/javadoc/index.html                                                                                              cd AssignementQues2/dist/javadoc/index.html
+   cd AssignmentQues1/dist/javadoc/index.html                                                                                    
+   cd AssignmentQues2/dist/javadoc/index.html
    ```
    
    
