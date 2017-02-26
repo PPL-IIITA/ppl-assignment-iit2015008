@@ -1,6 +1,6 @@
 # ppl-assignment-iit2015008
 
-   AYUSH RAJ : IIT2015008
+## AYUSH RAJ : IIT2015008
    
 BUILD TOOLS:
    - OS : Windows 10
