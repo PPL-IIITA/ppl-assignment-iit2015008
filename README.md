@@ -19,7 +19,7 @@
    
 ### Logs :
    > <pre><code>cd AssignmentQues1/</pre></code>
-   > - <i>logs_couple.txt</i>  will be cread after executing jar file
+   > - <i>logs_couple.txt</i>  will be created after executing jar file
    >  <pre><code> cd AssignmentQues2/</code></pre>     
    > - <i>log1_couple.txt , log2_exchangeGifts.txt , log3_compatibleCouple.txt , log4_happiestCouple.txt </i> will be created after executing </i>
    jar file
