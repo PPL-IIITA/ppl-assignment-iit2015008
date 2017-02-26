@@ -13,15 +13,15 @@
    - extract ppl-assignment-iit2015008-master.zip
    - cd ppl-assignment-iit2015008-master.zip/
    - cd AssignmentQues1/
-   - **On Command Promt** :  java -jar "AssignmentQues1.jar" 
+   - **On Command Promt** :  _java -jar "AssignmentQues1.jar_ 
    - cd AssignmentQues2/
-   - **On Command Promt** :  java -jar "AssignmentQues2.jar" 
+   - **On Command Promt** :  _java -jar "AssignmentQues2.jar_
    
 ### Logs :
    - cd AssignmentQues1/
-   - (logs_couple.txt)
+   - _logs_couple.txt_
    - cd AssignmentQues2/
-   - (log1_couple.txt , log2_exchangeGifts.txt , log3_compatibleCouple.txt , log4_happiestCouple.txt)
+   - _log1_couple.txt , log2_exchangeGifts.txt , log3_compatibleCouple.txt , log4_happiestCouple.txt_
    
 ### Documentation :
    - Download all the html files access offline.
