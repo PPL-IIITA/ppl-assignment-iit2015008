@@ -3,19 +3,19 @@
 ## AYUSH RAJ : IIT2015008
    
 ### BUILD TOOLS:
-   - OS : Windows 10
-   - Version :10.0.14393
-   - IDE : Netbeans IDE 8.2
-   - jdk : jdk1.8.0_111
+   - **OS** : Windows 10
+   - **Version** :10.0.14393
+   - **IDE** : Netbeans IDE 8.2
+   - **jdk** : jdk1.8.0_111
    
 ### Testing :
-   - Download or clone using url "https://github.com/PPL-IIITA/ppl-assignment-iit2015008.git"
-   - extract : ppl-assignment-iit2015008-master.zip
+   - **Download or clone using url** : "https://github.com/PPL-IIITA/ppl-assignment-iit2015008.git"
+   - **extract** : ppl-assignment-iit2015008-master.zip
    - cd ppl-assignment-iit2015008-master.zip/
    - cd AssignmentQues1/
-   - On Command Promt :  java -jar "AssignmentQues1.jar" 
+   - **On Command Promt** :  java -jar "AssignmentQues1.jar" 
    - cd AssignmentQues2/
-   - On Command Promt :  java -jar "AssignmentQues2.jar" 
+   - **On Command Promt** :  java -jar "AssignmentQues2.jar" 
    
 ### Logs :
    - cd AssignmentQues1/
