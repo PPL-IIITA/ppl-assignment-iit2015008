@@ -11,11 +11,11 @@
 ### Testing :
    > - **Download or clone using url** : "https://github.com/PPL-IIITA/ppl-assignment-iit2015008.git"                                    
    > - extract ppl-assignment-iit2015008-master.zip  
-   > <pre><code>cd ppl-assignment-iit2015008-master.zip
-   > cd AssignmentQues1/ </pre></code>
-   > - **On Command Promt** : ``` java -jar "AssignmentQues1.jar ```
-   > <pre><code>cd AssignmentQues2/</pre></code>
-   > - **On Command Promt** : ``` java -jar "AssignmentQues2.jar ```
+   > <pre><code>cd ppl-assignment-iit2015008-master.zip</pre></code>
+   > <pre><code>cd AssignmentQues1/ 
+   > java -jar "AssignmentQues1.jar</pre></code>
+   > <pre><code>cd AssignmentQues2/
+   > java -jar "AssignmentQues2.jar</pre></code>
    
 ### Logs :
    > <pre><code>cd AssignmentQues1/</pre></code>
