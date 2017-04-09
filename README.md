@@ -16,15 +16,20 @@
    > java -jar "AssignmentQues1.jar</pre></code>
    > <pre><code>cd AssignmentQues2/
    > java -jar "AssignmentQues2.jar</pre></code>
+   > <pre><code>cd AssignmentQues3/
+   > java -jar "AssignmentQues3.jar</pre></code>
    
 ### Logs :
    > <pre><code>cd AssignmentQues1/</pre></code>
    > - <i>logs_couple.txt</i>  will be created after executing jar file
    >  <pre><code> cd AssignmentQues2/</code></pre>     
    > - <i>log1_couple.txt , log2_exchangeGifts.txt , log3_compatibleCouple.txt , log4_happiestCouple.txt </i> will be created after executing </i>
+   >  <pre><code> cd AssignmentQues3/</code></pre>     
+   > - <i>log1_couple.txt , log2_exchangeGifts.txt , log3_compatibleCouple.txt , log4_happiestCouple.txt </i> will be created after executing </i>
    jar file
    
 ### Documentation :
    > - Download all the html files access offline.
    > <pre><code>cd AssignmentQues1/dist/javadoc/index.html
+   >  cd AssignmentQues2/dist/javadoc/index.html
    >  cd AssignmentQues2/dist/javadoc/index.html</pre></code>
